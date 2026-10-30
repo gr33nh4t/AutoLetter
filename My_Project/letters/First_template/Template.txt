@@ -1,0 +1,8 @@
+Dear {name},
+
+I am very happy to say that I made a lot of things in my vacation. But at the same time, I had an awful time with my family as expected.
+
+I want to tell you a lot, but I don't have a lot of time.
+
+Goodbye,
+{signature}
